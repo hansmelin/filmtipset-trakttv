@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Threading;
 
-namespace filmtipset.trakttv
+namespace filmtipset2trakttv
 {
     internal class Program
     {

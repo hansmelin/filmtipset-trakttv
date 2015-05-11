@@ -7,8 +7,8 @@
     <ProjectGuid>{84E2B9FC-30F0-492D-9BF9-286814C7F715}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>filmtipset.trakttv</RootNamespace>
-    <AssemblyName>filmtipset-trakttv</AssemblyName>
+    <RootNamespace>filmtipset2trakttv</RootNamespace>
+    <AssemblyName>filmtipset2trakttv</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
